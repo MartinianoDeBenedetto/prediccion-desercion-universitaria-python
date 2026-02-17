@@ -1,4 +1,4 @@
-# Nombre-del-Repo-
+# prediccion-desercion-universitaria-python
 Modelo de Machine Learning para predecir el riesgo de deserción y egreso de estudiantes. Trabajo Final de Prácticas Pre-Profesionales (UGR)
 
 Este proyecto fue desarrollado durante mis **Prácticas Pre-Profesionales** en la **Universidad del Gran Rosario (UGR)**. El objetivo fue aplicar Ciencia de Datos para identificar alumnos en riesgo de abandono y predecir la probabilidad de egreso.
